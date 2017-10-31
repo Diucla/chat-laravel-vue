@@ -20,7 +20,7 @@ Vue.use(VueResource);
 
 window.Echo = new Echo({
     broadcaster: 'pusher',
-    key: 'adba74bea68819d557ca' //Add your pusher key here
+    key: '7cf767b3db15884cfdd7'
 }); 
 
 const app = new Vue({
